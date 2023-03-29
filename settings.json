@@ -1,0 +1,10 @@
+{
+    //resto de tu código,
+    "cssVariables.lookupFiles": [
+      "**/*.css",
+      "**/*.scss",
+      "**/*.sass",
+      "**/*.less",
+      "./node_modules/@architecture-it/stylesystem/vars.scss"
+    ]
+  }
